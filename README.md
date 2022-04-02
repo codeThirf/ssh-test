@@ -15,4 +15,7 @@ ssh-keygen -t rsa -b 4096 -C "1585869092@qq.com"
  再用ssh -t git@github.com验证否成功
 上传方法2：
 ssh
-111111111111111
+
+创建分支：git branch 名字
+分支跳转： git checkout 分支
+分支创建并 跳转： git checkout -b  名字
