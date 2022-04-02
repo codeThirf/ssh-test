@@ -15,3 +15,4 @@ ssh-keygen -t rsa -b 4096 -C "1585869092@qq.com"
  再用ssh -t git@github.com验证否成功
 上传方法2：
 ssh
+111111111111111
